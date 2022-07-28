@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Improved Kienyeji",
+    "image": "./assets/images/sec1.jpg",
+    "price": 400.0,
+    "prevPrice": 500.0,
+    "sect": "Section A",
+    "totalCount": 26,
+    "age": "5 months",
+    "vaccinated": "2 weeks ago",
+    "addedBy": "Emonyi",
+    "desdcription": "Lays eggs daily."
+  },
+  {
+    "name": "Improved Kienyeji and pure kienyeji",
+    "image": "./assets/images/sec2.jpg",
+    "price": 800.0,
+    "prevPrice": 900.0,
+    "sect": "Section B",
+    "totalCount": 15,
+    "age": "6 months",
+    "vaccinated": "2 weeks ago",
+    "addedBy": "Emonyi",
+    "desdcription": "Lays eggs daily."
+  },
+  {
+    "name": "Improved Kienyeji",
+    "image": "./assets/images/sec2.jpg",
+    "price": 1000.0,
+    "prevPrice": 1500.0,
+    "sect": "Section C",
+    "totalCount": 10,
+    "age": "7 months",
+    "vaccinated": "2 weeks ago",
+    "addedBy": "Emonyi",
+    "description": "Lays eggs daily."
+  },
+  {
+    "name": "Improved Kienyeji",
+    "image": "./assets/images/sec2.jpg",
+    "price": 600.0,
+    "prevPrice": 650.0,
+    "sect": "Section D",
+    "totalCount": 13,
+    "age": "6 months",
+    "vaccinated": "2 weeks ago",
+    "addedBy": "Emonyi",
+    "description": "Lays eggs daily."
+  },
+  {
+    "name": "Improved Kienyeji",
+    "image": "./assets/images/sec2.jpg",
+    "price": 500.0,
+    "prevPrice": 600.0,
+    "sect": "Section E",
+    "totalCount": 18,
+    "age": "5 months",
+    "vaccinated": "2 weeks ago",
+    "addedBy": "Emonyi",
+    "desdcription": "Lays eggs daily."
+  },
+  {
+    "name": "Improved Kienyeji",
+    "image": "./assets/images/sec2.jpg",
+    "price": 900.0,
+    "prevPrice": 1000.0,
+    "sect": "Section F",
+    "totalCount": 26,
+    "age": "6 months",
+    "vaccinated": "2 weeks ago",
+    "addedBy": "Emonyi",
+    "desdcription": "Lays eggs daily."
+  },
+  {
+    "name": "Improved Kienyeji",
+    "image": "./assets/images/sec7.jpg",
+    "price": 700.0,
+    "prevPrice": 850.0,
+    "sect": "Section G",
+    "totalCount": 25,
+    "age": "5 months",
+    "vaccinated": "2 weeks ago",
+    "addedBy": "Emonyi",
+    "desdcription": "Lays eggs daily."
+  }
+  ]
+
